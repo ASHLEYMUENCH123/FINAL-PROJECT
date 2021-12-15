@@ -1,0 +1,133 @@
+h1{
+    font-size: 100px;
+    color: #1F297F;
+    font-family: helvetica;
+    margin-bottom: -15px;
+    font-weight: 400;
+}
+
+h2{
+    font-size: 16px;
+    font-weight: 300;
+    color: #1F297F;
+    font-family: helvetica;
+    margin-bottom: 15px;
+}
+
+button{
+    color: #1F297F;
+    font-size: 12px;
+    font-family: helvetica;
+    background-color: #279764;
+    border-width: 2px;
+    border-color: #1F297F;
+    border-radius: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+
+#header {
+    background-color: #279764;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    align-content: center;
+    gap: 20px;
+    padding: 10px;
+}
+
+#S1 {
+    background-color: #279764;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-top: solid;
+    border-width: 2px;
+    color: #1F297F
+}
+
+
+#S12 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: top;
+    gap: 50px;
+    background-color: #279764;
+    text-align: center;
+    margin-top: -10px;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#S2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-left: 20px;
+    padding-right: 20px;
+ }
+
+ #S3 {
+    text-align: center;    
+    padding-left: 20px;
+    padding-bottom: 40px;
+
+}
+
+#S4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-left: 20px;
+    padding-right: 20px;
+ }
+
+ #S5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: top;
+    gap: 50px;
+    background-color: #279764;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+ }
+
+ #S6{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: top;
+    gap: 50px;
+    background-color: #ecf0f3;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    padding-left: 50px;
+ }
+ #footer {
+    background-color: #279764;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: left;
+    gap: 50px;
+    padding-left: 80px;
+    padding-right: 20px;
+    border-top: solid;
+    border-width: 2px;
+    color: #1F297F 
+ }
+ 
